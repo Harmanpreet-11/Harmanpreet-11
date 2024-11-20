@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harmanpreet Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div display="flex" justify-content="center" align-items="center">
+<h1 align="center">A passionate frontend developer from India</h1>
 
 <img src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif">
-
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmanpreet-11&label=Profile%20views&color=0e75b6&style=flat" alt="harmanpreet-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmanpreet-11" alt="harmanpreet-11" /></a> </p>
