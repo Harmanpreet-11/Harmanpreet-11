@@ -4,9 +4,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🔭 I'm currently working on React JS<br>👨‍💼 I'm looking to collaborate on Full Stack Project's<br>🤝🏻 I'm looking for help with Block-Chain Development<br>🌱 I'm currently learning Next JS<br>💬 Ask me about Full Stack Development<br>⚡ Fun fact I love Tea</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harmanpreet-11&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
