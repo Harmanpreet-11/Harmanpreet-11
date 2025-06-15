@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harmanpreet-11&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harmanpreet-11&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harmanpreet-11&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Harmanpreet-11&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
@@ -77,7 +77,7 @@
 ###
 
 <div align="left">
-  <a href="harmanharjeet2003@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/harmanpreet-singh-user01?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B9Vpo3E9HRLuayTA0RjRDsg%3D%3D" target="_blank">
