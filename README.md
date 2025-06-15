@@ -4,7 +4,6 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">🔭 I'm currently working on React JS<br>👨‍💼 I'm looking to collaborate on Full Stack Project's<br>🤝🏻 I'm looking for help with Block-Chain Development<br>🌱 I'm currently learning Next JS<br>💬 Ask me about Full Stack Development<br>⚡ Fun fact I love Tea</h3>
 
