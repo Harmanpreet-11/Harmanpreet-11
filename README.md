@@ -41,4 +41,4 @@ I'm driven by the desire to solve real-world problems with clean, efficient, and
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Harmanpreet-11&theme=dark"></td><td width="50%" align="center">
 ## Connect with me
 
-You can reach out to [Harmanpreet Singh](mailto:harmanharjeet2003@gmail.com) for any queries or collaboration opportunities.
+[Harmanpreet Singh](mailto:harmanharjeet2003@gmail.com)
