@@ -43,4 +43,4 @@ I'm driven by the desire to solve real-world problems with clean, efficient, and
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/harmanpreet-singh-user01/" target="_blank">Harmanpreet Singh</a> Email: harmanharjeet2003@gmail.com</p>
+<p align="center">Email: harmanharjeet2003@gmail.com</p>
